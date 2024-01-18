@@ -1,0 +1,144 @@
+-------------------------------------------------------------
+|                    COMPANY LOGO                             |
+-------------------------------------------------------------
+|         Home | About Us | Services | Projects| Blog | Contact 
+-------------------------------------------------------------
+|                        HERO SECTION                          |
+| ----------------------------------------------------------- |
+||                 |                                         ||
+||    Image/Video  |       Catchy Headline                    ||
+||                 |                                         ||
+||                 |                                         ||
+||                 |       Brief Company Introduction         ||
+||                 |                                         ||
+||                 |                                         ||
+||                 |       [Call-to-Action Button]             ||
+||                 |                                         ||
+| ----------------------------------------------------------- |
+|                                                             |
+|    Featured Products/Services                                |
+|                                                             |
+|    Testimonials/Client Reviews                                |
+|                                                             |
+|    Latest Blog Posts/News                                     |
+|                                                             |
+-------------------------------------------------------------
+
+[Header]
+  - Logo
+  - Navigation Menu (Home, About Us, Services, Projects, Certificates, CSR, Equipment, Contact)
+
+[Hero Section]
+  - Welcome Message
+  - Call-to-Action Button ("Explore Our Services")
+
+[About Us Section]
+  - Brief Company Overview
+  - Key Achievements
+  - Link to Read More About Company History
+
+[Services Section]
+  - Water Works
+    - Description
+    - Image Carousel/Icons
+  - Drilling Works
+    - Description
+    - Image Carousel/Icons
+  - Building and Civil Engineering Contractors
+    - Description
+    - Image Carousel/Icons
+  - [Explore More Button]
+
+[Projects Section]
+  - Featured Projects
+    - Project Image
+    - Project Name
+    - Project Type
+  - [View All Projects Button]
+
+[Certificates Section]
+  - Certificates and Licenses Display
+
+[CSR Section]
+  - Corporate Social Responsibility Overview
+  - Specific Initiatives
+  - [Learn More Button]
+
+[Equipment Section]
+  - Major Construction Equipment Display
+    - Image
+    - Equipment Name
+    - Tonnage/Specifications
+
+[Contact Section]
+  - Contact Information
+    - Address
+    - Phone Numbers
+    - Email
+  - Inquiry Form (Name, Email, Phone, Message)
+  - [Send Inquiry Button]
+
+[Footer]
+  - Navigation Links
+  - Social Media Icons
+
+
++----------------------------------+
+|          [Header]                |
+|   - Logo                         |
+|   - Navigation Menu              |
++----------------------------------+
+|         [Hero Section]           |
+|   - Welcome Message              |
+|   - CTA Button ("Explore Our Services")|
++----------------------------------+
+|        [About Us Section]        |
+|   - Brief Company Overview       |
+|   - Key Achievements             |
+|   - Link to Company History      |
++----------------------------------+
+|        [Services Section]        |
+|   - Water Works                  |
+|     - Description                |
+|     - Image Carousel/Icons       |
+|   - Drilling Works               |
+|     - Description                |
+|     - Image Carousel/Icons       |
+|   - Building and Civil Engineering Contractors |
+|     - Description                |
+|     - Image Carousel/Icons       |
+|   - [Explore More Button]        |
++----------------------------------+
+|       [Projects Section]         |
+|   - Featured Projects            |
+|     - Project Image              |
+|     - Project Name               |
+|     - Project Type               |
+|   - [View All Projects Button]   |
++----------------------------------+
+|    [Certificates Section]        |
+|   - Certificates and Licenses Display |
++----------------------------------+
+|        [CSR Section]             |
+|   - CSR Overview                 |
+|   - Specific Initiatives         |
+|   - [Learn More Button]          |
++----------------------------------+
+|      [Equipment Section]         |
+|   - Major Construction Equipment  |
+|     - Image                      |
+|     - Equipment Name              |
+|     - Tonnage/Specifications     |
++----------------------------------+
+|      [Contact Section]           |
+|   - Contact Information          |
+|     - Address                    |
+|     - Phone Numbers              |
+|     - Email                      |
+|   - Inquiry Form (Name, Email, Phone, Message) |
+|   - [Send Inquiry Button]        |
++----------------------------------+
+|          [Footer]                |
+|   - Navigation Links             |
+|   - Social Media Icons           |
++----------------------------------+
