@@ -1,6 +1,6 @@
 /********** Template CSS **********/
 :root {
-    --primary: #FF5E14;
+    --primary: rgb(30, 187, 215);
     --secondary: #5F656F;
     --light: #F5F5F5;
     --dark: #02245B;
@@ -122,6 +122,7 @@ h6,
     align-items: center;
     background: var(--primary);
 }
+
 /* #header-carousel{
     height: 1000px;
 } */
@@ -161,7 +162,7 @@ h6,
 }
 
 @media (max-width: 991.98px) {
-    .navbar .navbar-nav .nav-link  {
+    .navbar .navbar-nav .nav-link {
         margin-right: 0;
         padding: 10px 0;
     }
@@ -216,8 +217,9 @@ h6,
     border: 15px solid var(--primary);
     border-radius: 3.5rem;
 }
-#header-carousel .carousel-item img{
-    max-height: 600px;
+
+#header-carousel .carousel-item img {
+    max-height: 800px;
 }
 
 @media (max-width: 768px) {
@@ -225,7 +227,7 @@ h6,
         position: relative;
         min-height: 450px;
     }
-    
+
     #header-carousel .carousel-item img {
         position: absolute;
         width: 100%;
@@ -511,7 +513,7 @@ h6,
 }
 
 .project-item:hover .project-title,
-.project-carousel .owl-item.center .project-title  {
+.project-carousel .owl-item.center .project-title {
     bottom: -60px;
 }
 
@@ -603,6 +605,7 @@ h6,
 }
 
 @media (min-width: 768px) {
+
     .testimonial-carousel::before,
     .testimonial-carousel::after {
         width: 200px;
@@ -610,6 +613,7 @@ h6,
 }
 
 @media (min-width: 992px) {
+
     .testimonial-carousel::before,
     .testimonial-carousel::after {
         width: 300px;
@@ -704,4 +708,11 @@ h6,
 .copyright {
     color: #B0B9AE;
     border-top: 1px solid rgba(255, 255, 255, .1);
+}
+.btn1{
+    max-height: 100px;
+    max-width: 100%;
+    /* background-color: rgb(30, 187, 215);
+    color: white; */
+
 }
