@@ -218,9 +218,6 @@ h6,
     border-radius: 3.5rem;
 }
 
-#header-carousel .carousel-item img {
-    height: 800px;
-}
 
 @media (max-width: 768px) {
     #header-carousel .carousel-item {
