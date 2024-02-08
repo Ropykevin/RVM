@@ -119,8 +119,8 @@
     <div class="container-fluid contact bg-light py-5">
         <div class="container py-5">
             <div class="mx-auto text-center mb-5" style="max-width: 900px;">
-                <h5 class="section-title px-3">Contact Us</h5>
-                <h1 class="mb-0">Contact For Any Query</h1>
+                <h5 class="section-title px-3"></h5>
+                <h1 class="mb-0">Contact Us For Any Query</h1>
             </div>
             <div class="row g-5 align-items-center">
                 <div class="col-lg-4">
@@ -152,31 +152,30 @@
                     <p class="mb-4">Feel free to reach out to us anytime! We're here to assist you with any questions or
                         concerns you may have. Just drop us
                         a line and we'll get back to you as soon as possible. </p>
-                    <form>
+                    <form action="mailto:ropykevin@gmail.com" method="post" enctype="text/plain">
                         <div class="row g-3">
                             <div class="col-md-6">
                                 <div class="form-floating">
-                                    <input type="text" class="form-control border-0" id="name" placeholder="Your Name">
+                                    <input type="text" class="form-control border-0" id="name" name="name" placeholder="Your Name">
                                     <label for="name">Your Name</label>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="form-floating">
-                                    <input type="email" class="form-control border-0" id="email"
-                                        placeholder="Your Email">
+                                    <input type="email" class="form-control border-0" id="email" name="email" placeholder="Your Email">
                                     <label for="email">Your Email</label>
                                 </div>
                             </div>
                             <div class="col-12">
                                 <div class="form-floating">
-                                    <input type="text" class="form-control border-0" id="subject" placeholder="Subject">
+                                    <input type="text" class="form-control border-0" id="subject" name="subject" placeholder="Subject">
                                     <label for="subject">Subject</label>
                                 </div>
                             </div>
                             <div class="col-12">
                                 <div class="form-floating">
-                                    <textarea class="form-control border-0" placeholder="Leave a message here"
-                                        id="message" style="height: 160px"></textarea>
+                                    <textarea class="form-control border-0" placeholder="Leave a message here" id="message" name="message"
+                                        style="height: 160px"></textarea>
                                     <label for="message">Message</label>
                                 </div>
                             </div>
@@ -185,6 +184,7 @@
                             </div>
                         </div>
                     </form>
+
                 </div>
                 <div class="col-12">
                     <div class="rounded">
